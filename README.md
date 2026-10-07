@@ -26,6 +26,7 @@ The SOC Home Lab provides practical experience with:
 
 
 🏗️ Lab Architecture
+
                          ┌──────────────────────┐
                          │       Attacker       │
                          │      Kali Linux      │
