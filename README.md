@@ -875,7 +875,7 @@ No real-world systems should be tested without proper authorization.
 
 Cybersecurity | SOC Analyst | Security Operations
 
-GitHub: [github.com/MudimanchiPranay](https://github.com/MudimanchiPranay)
+GitHub: [github.com/MudimanchiPranay](https://github.com/Mudimanchi-Pranay)
 
 ---
 
